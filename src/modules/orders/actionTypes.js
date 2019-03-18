@@ -1,0 +1,1 @@
+export const LOAD_CONTACTS = 'ORDERS_LOAD';

@@ -1,0 +1,3 @@
+export const LOGGED_IN = 'AUTH_LOGGED_IN';
+export const LOGGED_OUT = 'AUTH_LOGGED_OUT';
+export const LOGIN_SUCCESS = 'AUTH_LOGIN_SUCCESS';

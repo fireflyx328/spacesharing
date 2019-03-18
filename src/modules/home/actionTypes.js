@@ -1,0 +1,1 @@
+export const FIRST_ACTION = 'HOME_FIRST_ACTION';
